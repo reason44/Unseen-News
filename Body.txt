@@ -1,4 +1,4 @@
- Fixed quest list bugs due to parsing errors.
- Fixed solo quest list not working in EP 4.
- Added quest Twilight Sanctuary by Esther
- Added quest Lost CHARGE VULCAN by Ender.
+ "Fixed quest list bugs due to parsing errors."
+ "Fixed solo quest list not working in EP 4."
+ "Added quest Twilight Sanctuary by Esther"
+ "Added quest Lost CHARGE VULCAN by Ender."
