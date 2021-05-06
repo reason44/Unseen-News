@@ -1,5 +1,2 @@
- Fixed quest list bugs due to parsing errors.
- Fixed solo quest list not working in EP 4.
- Added quest Twilight Sanctuary by Esther.
- Added quest Lost CHARGE VULCAN by Ender.
- Administrator is no longer require for the client.
+ PsoBB client no longer requires being run as administrator.
+ Upcoming volume client patch coming up, thank you Soly!
