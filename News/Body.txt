@@ -1,2 +1,3 @@
  PsoBB client no longer requires being run as administrator.
+ Fixed launcher issues with font, and saving ID/Pass.
  Upcoming volume client patch coming up, thank you Soly!
