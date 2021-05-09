@@ -1,3 +1,4 @@
  PsoBB client no longer requires being run as administrator.
- Fixed launcher issues with font, and saving ID/Pass.
+ Fixed all launcher options, you no longer need online.exe/option.exe.
+ Please use install.reg, or else you won't be able to change options.
  Upcoming volume client patch coming up, thank you Soly!
