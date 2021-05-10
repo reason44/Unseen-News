@@ -1,3 +1,3 @@
  PsoBB client no longer requires being run as administrator.
- Fixed all launcher options, you no longer need online.exe/option.exe.
- Upcoming volume client patch coming up, thank you Soly!
+ Fixed all launcher options, now everything works.
+ Upcoming volume client patch, thank you Soly!
