@@ -1,3 +1,7 @@
- PsoBB client no longer requires being run as administrator.
- Fixed all launcher options, now everything works.
- Upcoming volume client patch, thank you Soly!
+Moved bank lady into the Hunter's Guild.
+Changed lobby spawn points to be closer to the counter.
+Upcoming volume client patch, thank you Soly!
+
+
+ 
+ 
