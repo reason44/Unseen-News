@@ -1,7 +1,7 @@
 Moved bank lady into the Hunter's Guild.
 Changed lobby spawn points to be closer to the counter.
-Slow Gibbles patch applied, no need to restart the client.
-Upcoming volume client patch, thank you Soly!
+Slow Gibbles patch applied, thanks again esc!
+
 
 
  
