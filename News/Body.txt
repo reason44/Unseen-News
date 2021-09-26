@@ -1,4 +1,5 @@
 Moved bank lady into the Hunter's Guild.
+DMC Fix is now active, Thank you esc & phelix!
 Changed lobby spawn points to be closer to the counter.
 Slow Gibbles patch applied, thanks again esc!
 
