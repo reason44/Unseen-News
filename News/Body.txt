@@ -1,8 +1,8 @@
-Moved bank lady into the Hunter's Guild.
-DMC fix is now active. Special thanks to esc & phelix!
-Changed lobby spawn points to be closer to the counter.
-Slow Gibbles patch applied, thanks again esc!
-
+ New automatic qwarp system up for testing.
+ Beats are automatically set to 600 on entry to a room, /beat will toggle off.
+ Anti crash bugfix on lobby entry out of a game.
+ Hucast matplan updated to the meta build. (112 ATP, 38LCK)
+ Galatine, Master Raven, and Heaven Punisher have been added to the /gear list.
 
 
  
